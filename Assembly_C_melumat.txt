@@ -1,0 +1,9 @@
+# Program-dilleri-hakkinda-kisa-melumat
+Assembly program dili digerlerine gore nisbeten cetin bir dil kimi tesvir olunur.Lakin seliz anlatilsa cox rahat ve asan dildir.
+Niye bes helede bu dili oyrenmeleliyik?
+Cunki bu program windows linux ve diger platformlarda isleyir eger hedefi pul qazanmaqla qurmususansa ozaman mukemmel bir secimdir bu program.
+Nezaman sa platformlardan uzaqlasib ozumuz ucun bir ozel sistem yaratsaq ozaman Assembly ve C bizi yalniz buraxmayacaq ve bizim komeyimize ctacaq.
+C dili Assembly diline gore daha insani dile yaxindir.Okay C dili bele yaxsidisa niye Assembly mutleq bilmeliyik.?
+Cunki C dilindeki olan xusisiyyeti C dilinde istifade etmek ucun gerek Assembly den istifade edesen.Eger Assembly bilmesen C dilinin sene 
+verdiyi avantaji ve lazimi melumati oyrene bilmeyeceksen.
+Yox eger bu iki dilin hec birini bilmirsizse demek ki bagimsiz program yaza bilmezsiniz.
