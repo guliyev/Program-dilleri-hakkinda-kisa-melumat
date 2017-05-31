@@ -1,0 +1,7 @@
+# Program-dilleri-hakkinda-kisa-melumat
+Asp.net nedir?
+
+Asp.net Microsoftun nezninde erseye gelmis bir wep uygulamadir.
+Kohne adi olan ASP ya cox benzesede birqeder guclundererek ozunu isbat etmisdir.
+Asp.net muasir local NET ile duzeltmek ucun aciq qaynagli bir wep cercivesidir.
+Asp sade oldugu ucun bir cox adam istifade ederek HTML5, CSS ve JavaScrip dayali wep saytlar yaradir.
