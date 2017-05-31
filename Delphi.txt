@@ -1,0 +1,8 @@
+# Program-dilleri-hakkinda-kisa-melumat
+
+Delphi ne ise yarayir ve xusiyyetleri nelerdi?
+
+Delphi program dillerinin icinde en sadesidi eger pesakar bir programist deyilde hobbi olaraq calismak istiyirsinizse ozaman bu dil cox gozel secimdir.
+Yox eger is qurmaq ise giermek veya pul baresinde dusunerek bu dili oyrenirsense unudun getsin.Cunki bir cox sirketler bu programi goz ardi edir.
+Bes Delphi nin ozel xusissiyetleri varmi? 
+Tebiki var.Bu C## ve java nisbeten daha suretli islemesidir.Ve daha asant oyrenilmesi olmasida bir xusissetdi...
