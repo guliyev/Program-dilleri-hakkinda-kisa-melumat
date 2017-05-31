@@ -7,3 +7,4 @@ C dili Assembly diline gore daha insani dile yaxindir.Okay C dili bele yaxsidisa
 Cunki C dilindeki olan xusisiyyeti C dilinde istifade etmek ucun gerek Assembly den istifade edesen.Eger Assembly bilmesen C dilinin sene 
 verdiyi avantaji ve lazimi melumati oyrene bilmeyeceksen.
 Yox eger bu iki dilin hec birini bilmirsizse demek ki bagimsiz program yaza bilmezsiniz.
+Assembly esasen bagimsiz cihazlarda daha cox istifade olunr.(Meselen >Robot >Soyuducu>Paltaryuyan>Qabyuyan ve.s
